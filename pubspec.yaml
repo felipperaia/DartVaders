@@ -1,0 +1,29 @@
+name: dartvaders
+description: "Seu melhor amigo e gerenciador de Veículos de bolso."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0" # Compatibilidade com Dart 3.x
+
+dependencies:
+  flutter:
+    sdk: flutter
+  image_picker: ^1.1.2  # Manter a versão compatível com Flutter 3.x
+  #google_sign_in: ^6.2.2
+  http: ^0.13.6
+  cupertino_icons: ^1.0.8
+  path_provider: ^2.1.5
+  intl: ^0.19.0  # Versão recente que deve ser compatível com Dart 3
+  parse_server_sdk_flutter: ^9.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0  # Para garantir linting compatível
+
+flutter:
+  uses-material-design: true
+  assets:
+    - lib/images/logo.png
