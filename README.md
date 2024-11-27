@@ -15,7 +15,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
     <img align="center" height="30" width="40" alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
     <img align="center" height="30" width="40" alt="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
     <img align="center" height="30" width="40" alt="Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
-    <img align="center" height="30" width="40" alt="Back4App" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+    <img align="center" height="30" width="40" alt="Back4App" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 </p>
 
 ## 📂 Funcionalidades
